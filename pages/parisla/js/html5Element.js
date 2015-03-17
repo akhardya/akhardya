@@ -1,0 +1,1 @@
+//html settings under IE 9.0 version<script type="application/javascript">	document.createElement("section");	document.createElement("article");	document.createElement("nav");	document.createElemnt("footer");	document.createElement("header");	document.createElement("figcaption");	document.createElement("figure");	doucment.createElement("aside");</script>

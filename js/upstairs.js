@@ -1,0 +1,1 @@
+//retour Accueil$(document).ready(function(){	$(window).scroll(function(){		posScroll=$(document).scrollTop();			if(posScroll>=750&&posScroll<=2900)				$('#up').fadeIn(50);			else				$('#up').fadeOut(100);				});	});

@@ -1,0 +1,1 @@
+//Animation diaporama$(document).ready(function(){	setInterval(function(){		$(".slideShow ul").animate({marginLeft:-380},1000,function(){  $(this).css({marginLeft:0}).find("li:last-child").after($(this).find("li:first-child"));			});	},3500);});
